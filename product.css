@@ -1,0 +1,31 @@
+.box-container{
+    
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(images/services.jpg);    
+    background-size: cover;
+    background-position: center;
+}
+.image{
+   display: flex;
+   justify-content: center;
+   padding-bottom: 10px;
+   padding-top: 20px;
+   
+}.heading{
+    color: aliceblue;
+    
+}
+h1{
+    color: aliceblue;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h2{
+    color: aliceblue;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
